@@ -1,0 +1,2 @@
+esta es una version antigua , la nueva version la uso en varios proyectos y deseo no subirla como opensource
+en esta version esta el sistema de reacciones y comentarios  que interactuan entre si con la misma db
